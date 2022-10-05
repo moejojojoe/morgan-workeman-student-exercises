@@ -1,1 +1,7 @@
 # How do you rename the file "fizz.txt" to "buzz.txt"?
+
+mv fizz.txt buzz.txt
+
+
+
+

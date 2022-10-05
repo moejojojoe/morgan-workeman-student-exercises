@@ -1,1 +1,5 @@
 # How do you change your current working directory to the parent directory?
+cd ..
+
+
+
